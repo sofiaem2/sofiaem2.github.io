@@ -8,13 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+_Download: [CV](/files/CV-Sofia-2024-PDF-1.pdf) (Updated July 2024)_
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* **Ph.D. in Computer Science**	
+  * University of Illinois, Urbana-Champaign, IL, Expected 2027
+  * Specialization: Computer Science and Educcation (CSED)
+  * Advisors: [Chad Lane](https://education.illinois.edu/profile/h-chad-lane)
+  * [Courses taken]()
+* **M.S. in Computer Science**
+  * University of Illinois, Urbana-Champaign, IL, 2024
+  * Specialization: Computer Science and Education (CSED)
+  * Advisors:[Chad Lane](https://education.illinois.edu/profile/h-chad-lane)
+* **B.A. in Computer Science
+  * Knox College, Galesburg, IL, 2017
+  * Minor: French
+  * [Courses taken]()
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
