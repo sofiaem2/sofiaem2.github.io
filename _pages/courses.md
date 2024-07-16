@@ -22,7 +22,7 @@ excerpt: "List of courses taken by Sofia."
 * CS 141 Introduction to Computer Science 
 * CS 142 Program Design and Methodology 
 * CS 147 Introduction to Scietific Computing and Visual 
-* * CS 180F Programming Challenges 
+* CS 180F Programming Challenges 
 * CS 201 Computer Organization and Assembly Language
 * CS 205 Algorithm Design and Analysis 
 * CS 226 Operating Systems and Networking
@@ -72,3 +72,35 @@ excerpt: "List of courses taken by Sofia."
 
 
 ---
+
+## Graduate
+
+### Computer Science
+* CS 411 Database Systems
+* CS 428 Software Engineering II
+* CS 465 User Interface Design 
+* CS 498 Experimental Methods for HCI
+* CS 498 Game Development
+* CS 500 Topics in Computer Education Research (Assessment)
+* CS 565 Human-Computer Interaction
+* CS 591 Teaching Assistant Traning
+* CS 591 Tools for Applied Data Science 
+* CS 591 Supporting Inclusive Computing
+* CS 591 Computers & Education Reading Group
+* CS 597 Independent Study: STEM-C Project
+* CS 598 Experimental Methods of HCI
+* CS 598 Learning and Computer Science
+* CS 598 Conceptual Change in CS Education
+* CS 599 Thesis Research (yes)
+
+### Curriculum and Instruction
+* CI 437 Educational Game Design
+* CI 550 Methods of Educational Inquiry
+
+### Educational Psychology
+* EPSY 480 Educational Statistics
+* EPSY 490 Educational Games Research
+* EPSY 590 Cognitive Science of Teaching & Learning Seminar
+
+### Leadership
+* LEAD 440 Interpersonal Intelligence

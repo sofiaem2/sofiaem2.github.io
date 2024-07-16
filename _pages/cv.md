@@ -16,7 +16,7 @@ Education
   * University of Illinois, Urbana-Champaign, IL, Expected 2027
   * Specialization: Computer Science and Educcation (CSED)
   * Advisors: [Chad Lane](https://education.illinois.edu/profile/h-chad-lane)
-  * [Courses taken]()
+  * [Courses taken](https://sofiaem2.github.io/courses-taken/)
 * **M.S. in Computer Science**
   * University of Illinois, Urbana-Champaign, IL, 2024
   * Specialization: Computer Science and Education (CSED)
@@ -24,7 +24,7 @@ Education
 * **B.A. in Computer Science
   * Knox College, Galesburg, IL, 2017
   * Minor: French
-  * [Courses taken]()
+  * [Courses taken](https://sofiaem2.github.io/courses-taken/)
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
