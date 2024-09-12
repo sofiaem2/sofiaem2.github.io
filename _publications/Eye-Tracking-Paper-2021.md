@@ -1,0 +1,16 @@
+---
+title: "A Comparison of Novice Coders' Approaches to Reading Code: An Eye-tracking Study"
+collection: publications
+permalink: /publication/Eye-Tracking-Paper-2021
+excerpt: 'We seek to describe how students code reading strategies change as they gain experience with programming. As an individual gains expertise in a domain, their ability to find information in domain-relevant displays improves. This improvement is often accompanied by an increased focus on problem-relevant portions of a display as measured by eye gaze duration. Prior eye-tracking studies in programming have suggested that expert programmers focus on" beacons" such as keywords or function names, but these studies have relied on small sample sizes and comparing students with professional programmers. In this study, we compared the eye gaze patterns of 56 complete novices (students who had never studied programming after a brief 30-minute instructional intervention) and 34 experienced novices (students who had taken at least three programming courses) as they read code. While experienced novices generally spent less time tracing code than complete novices, they spent more time when tracing complex iterations. The majority of complete novices demonstrated an understanding of the assignment operator and conditional statements but almost none demonstrated an intuitive understanding of iteration. Further analysis needs to investigate differences in the order of eye gazes and the role of code complexity in eye gaze patterns.'
+date: 2021-07-26
+venue: 'ASEE Annual Conference and Exposition, Conference Proceedings'
+paperurl: 'https://peer.asee.org/a-comparison-of-novice-coders-approaches-to-reading-code-an-eye-tracking-study.pdf'
+citation: 'Herman, G. L., Meyers, S., & Deshaies, S. E. (2021, July). A Comparison of Novice Coders Approaches to Reading Code: An Eye-tracking Study. In ASEE Annual Conference and Exposition, Conference Proceedings.'
+
+
+tags: [Eye Tracking]
+---
+We seek to describe how students code reading strategies change as they gain experience with programming. As an individual gains expertise in a domain, their ability to find information in domain-relevant displays improves. This improvement is often accompanied by an increased focus on problem-relevant portions of a display as measured by eye gaze duration. Prior eye-tracking studies in programming have suggested that expert programmers focus on" beacons" such as keywords or function names, but these studies have relied on small sample sizes and comparing students with professional programmers. In this study, we compared the eye gaze patterns of 56 complete novices (students who had never studied programming after a brief 30-minute instructional intervention) and 34 experienced novices (students who had taken at least three programming courses) as they read code. While experienced novices generally spent less time tracing code than complete novices, they spent more time when tracing complex iterations. The majority of complete novices demonstrated an understanding of the assignment operator and conditional statements but almost none demonstrated an intuitive understanding of iteration. Further analysis needs to investigate differences in the order of eye gazes and the role of code complexity in eye gaze patterns.
+
+[Access online here](https://doi.org/10.18260/1-2--36567) 
