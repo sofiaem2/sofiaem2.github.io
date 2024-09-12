@@ -25,50 +25,24 @@ Education
   * Knox College, Galesburg, IL, 2017
   * Minor: French
   * [Courses taken](https://sofiaem2.github.io/courses-taken/)
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* **December 2022 - present: Graduate Research Assistant**
+  * University of Illinois at Urbana-Champaign, Urbana, IL
+  * Advisor: [H.Chad Lane](https://education.illinois.edu/profile/h-chad-lane)
+  * Conducting research on [STEM-C Project](https://publish.illinois.edu/stemc-minecraft/) 
+  * Worked on reserach that aims to teach Introductory Computer Science and Data science skills through Minecraft
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **June 2018 - August 2019: Graduate Research Assistant**
+  * University of Illinois at Urbana-Champaign, Urbana, IL
+  * Advisor: [Geoffrey Herman](https://cs.illinois.edu/about/people/faculty/glherman)
+  * Worked individually and in team on a project that aims to understand how diverse bacground participants comprehend code via eye-tracking
 
-Publications
+* **June 2015 - August 2015 & January 2015 - Mach 2015 : Undergraduate Research Assistant**
+  * Knox College, Galesburg, IL
+  * Advisor: [David Bunde](https://www.knox.edu/academics/faculty/bunde-david)
+  * Worked individually and in team to improve performance of a High Perfomance Computer
+	
+Teaching Experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
